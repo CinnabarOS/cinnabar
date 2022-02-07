@@ -29,3 +29,26 @@
 # Disk Images
 *.img
 *.iso
+
+# Cinnabar Extensions
+
+# Application Object
+*.app
+# Dependency Object
+*.dpo
+# Entitlement Certificate
+*.tik
+# Metadata Table
+*.mdt
+# Configuration Table
+*.cft
+# Installable Archive
+*.ipk
+# Executable Image
+*.xi
+# Linkable Image
+*.li
+# Resource Image
+*.ri
+# Media Image
+*.mi
