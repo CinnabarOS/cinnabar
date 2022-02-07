@@ -1,5 +1,5 @@
 # Cinnabar OS
-## Ver. `0.0.0-pre0`
+## Ver. `0.0.0-pre1`
 
 A secure unix-like operating system with a microkernel for embedded applications. Designed for RISC-V.
 
