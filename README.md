@@ -30,4 +30,5 @@ This project is not currently open to contributions.
 3. Run `make` (or `bmake`) in the root of the project folder.
 
 ## Testing
-Project is not in a state to be tested yet.
+Only the bootloader can be tested as of now. Install QEMU and run the following:\
+```qemu-system-riscv64 -M virt -m 512M -smp 2 -bios sys/boot/boot.elf -monitor stdio -device virtio-scsi-pci```
