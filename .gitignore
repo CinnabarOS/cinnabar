@@ -1,0 +1,31 @@
+# .gitignore
+
+# Standard Extensions
+
+# Object Files
+*.o
+*.lo
+
+# Libraries
+*.a
+*.la
+
+# Executables
+*.elf
+*.out
+
+# Dynamic Libraries
+*.so
+*.so.*
+
+# Kernel Objects
+*.ko
+
+# Binary Information
+*.srec
+*.bin
+*.hex
+
+# Disk Images
+*.img
+*.iso
